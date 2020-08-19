@@ -1,2 +1,5 @@
 site_name: Firkin
+repo_url: https://github.com/firkinlib
+docs_dir: pages
+site_dir: docs
 
